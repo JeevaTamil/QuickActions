@@ -1,3 +1,3 @@
 # QuickActions
 
-https://jeevatamil.medium.com/create-sidebar-layout-in-ipad-with-swiftui-2-0-9743c4840a9b
+https://jeevatamil.medium.com/home-screen-quick-actions-swiftui-2-0-75d9ceac27c1
